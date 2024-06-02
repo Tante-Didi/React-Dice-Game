@@ -1,0 +1,17 @@
+.global-container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, #8f245a, #561e59);
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  position: relative;
+}
+
+.player-1 {
+  background: linear-gradient(to bottom, #dba7b5, #9d7d8d);
+}
+
+.player-2 {
+  background: linear-gradient(to bottom, #b87193, #5d3e5a);
+}
