@@ -5,7 +5,7 @@ export const Dice = ({ dice }) => {
     <div className="dice-wrap">
       <img
         id="dice2"
-        src={`/public/assets/dice${dice}.png`}
+        src={`/assets/dice${dice}.png`}
         alt="Dice 2"
         className="dice-img"
       />
