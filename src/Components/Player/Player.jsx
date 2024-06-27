@@ -7,7 +7,7 @@ export const Player = ({ style }) => {
         <div className="two">
           <div className="player-container">
             <div className="player-up">
-              <h2 className="h2-top">PLAYER 1</h2>
+              <h2 className="h2-top">PLAYER one</h2>
               <p className="p-num-top">0</p>
             </div>
           </div>
